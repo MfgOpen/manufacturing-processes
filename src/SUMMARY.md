@@ -1,6 +1,6 @@
-# Manufacturing Technology Handbook
+# Manufacturing Technology Book
 
-[Manufacturing Technology Handbook](title-page.md)
+[Manufacturing Technology Book](title-page.md)
 [Foreword](foreword.md)
 [Introduction](ch00-00-introduction.md)
 
